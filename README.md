@@ -3,7 +3,7 @@
 Repositório para armazenamento de projetos realizados no segundo periodo de curso de Computação da UEPB Campus VII
 
     Projeto I
-Pequeno projeto de administração de um troneio de futebol, que demonstra o básico de alocação dinâmica de memória do C++, com poucos usos de ponteiros. 
+Pequeno projeto de administração de um torneio de futebol, que demonstra o básico de alocação dinâmica de memória do C++, com poucos usos de ponteiros. 
 Utiliza de funções, matrizes e vetores dinâmicos.
 
     Projeto II
